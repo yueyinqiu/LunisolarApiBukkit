@@ -1,0 +1,7 @@
+name: LunisolarApi
+description: Lunisolar calendar for minecraft!
+website: https://github.com/yueyinqiu/LunisolarApiBukkit/wiki
+
+version: '1.00'
+author: yueyinqiu
+main: io.github.yueyinqiu.bukkit.lunisolarapi.plugin.LunisolarApiPlugin
